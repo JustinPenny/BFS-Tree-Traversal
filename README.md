@@ -1,1 +1,1 @@
-# BFS-Tree-Traversal
+This program is a breadth first search program written in c. Three examples of input have been included in the adjaency list format. This program must be run using redirectd file I/O. Example: ./a.out < graph1.txt.
